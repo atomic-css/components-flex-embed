@@ -1,0 +1,9 @@
+{
+  "name": "components-flex-embed",
+  "repo": "atomic-css/components-flex-embed",
+  "description": "Flexible embeds component",
+  "version": "1.0.0",
+  "styles": ["flex-embed.css"],
+  "author": "Lukáš Mladý",
+  "license": "MIT"
+}

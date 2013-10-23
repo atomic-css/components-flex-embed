@@ -1,0 +1,17 @@
+{
+  "name": "atomic-css-components-flex-embed",
+  "version": "1.0.0",
+  "homepage": "https://github.com/atomic-css/components-flex-embed",
+  "authors": [
+    "Lukáš Mladý",
+    "Nicolas Gallagher"
+  ],
+  "description": "Flexible embeds component",
+  "main": "flex-embed.css",
+  "license": "MIT",
+  "ignore": [
+    ".*",
+    "CHANGELOG.md",
+    "component.json"
+  ]
+}
